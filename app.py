@@ -55,6 +55,8 @@ KB = [
  {'tema':'violencia domestica','texto':'Priorizar segurança da vítima, Lei Maria da Penha, medidas protetivas, preservação de evidências.'},
  {'tema':'homicidio','texto':'Isolar local, preservar vestígios, acionar perícia, identificar testemunhas.'},
  {'tema':'ameaca','texto':'Registrar circunstâncias, avaliar risco, preservar mensagens.'},
+ {'tema':'estelionato','texto': 'Coletar evidências digitais (comprovantes, prints, contas), orientar preservação de registros e canais formais para bloqueio/contestação quando aplicável.'},
+ {'tema':'preservação de local','texto': 'Em ocorrências com risco à vida ou crime grave, orientar a preservação do local e acionar equipe competente. Evitar contaminação de vestígios.'},
 ]
 
 def recuperar_rag(pergunta):
